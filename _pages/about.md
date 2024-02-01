@@ -15,7 +15,9 @@ My PhD research focuses on extending large language models to new languages and 
 I specifically focus on the more challenging cases where a target language has a non-Latin script and limited resources for pre-training.  I use transfer learning as a main method
 
 **Research Area:**
-
+* Multilingual language models and Language adopters
+* Tokenization methods
+* 
 
 
 
