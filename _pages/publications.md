@@ -8,7 +8,8 @@ author_profile: true
 ### 2025 ###
 * "FiRC-NLP at SemEval-2025 Task 11: To Prompt or to Fine-Tune? Approaches for Multilingual Emotion Classification."
 Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025), Vienna, Austria, July 2025. (Paper accepted)
-"FiRC-NLP at SemEval-2025 Task 3: Exploring Prompting Approaches for Detecting Hallucinations in LLMs." Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025), Vienna, Austria, July 2025. (Paper accepted)
+
+* "FiRC-NLP at SemEval-2025 Task 3: Exploring Prompting Approaches for Detecting Hallucinations in LLMs." Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025), Vienna, Austria, July 2025. (Paper accepted)
 
 ### 2024 ###
 * "Grounding Toxicity in Real-World Events Across Languages." Natural Language Processing and Information Systems: 29th International Conference on Applications of Natural Language to Information Systems, NLDB 2024, Turin, Italy, June 25–27, 2024. Proceedings. June 2024, pp. 197–210.
