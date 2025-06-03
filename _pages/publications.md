@@ -15,9 +15,13 @@ Camera ready  [link](https://drive.google.com/file/d/1iKkSOakvasfsNPJY7hRG1EL-Dm
 
 ### 2024 ###
 * "Grounding Toxicity in Real-World Events Across Languages." Natural Language Processing and Information Systems: 29th International Conference on Applications of Natural Language to Information Systems, NLDB 2024, Turin, Italy, June 25–27, 2024. Proceedings. June 2024, pp. 197–210.
+[Code and data](https://github.com/cltl/grounding-toxicity)
+
 * "Unknown Script: Impact of Script on Cross-Lingual Transfer." Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 4: Student Research Workshop), NAACL 2024, Mexico City, Mexico, June 2024, pp. 124–129.
 * "The Constant in HATE: Toxicity in Reddit across Topics and Languages."
 Proceedings of the Fourth Workshop on Threat, Aggression & Cyberbullying @ LREC-COLING-2024, Torino, Italy, May 2024, pp. 1–11.
+[Code and data](https://github.com/cltl/Reddit_topic_toxicity/tree/main)
+
 
 ### 2023 ###
 * " Confidently Wrong: Exploring the Calibration and Expression of (Un) Certainty
@@ -27,10 +31,14 @@ Proceedings of the Workshop on Multimodal, Multilingual Natural Language Generat
 
 * " Cross-Domain Toxic Spans Detection." Natural Language Processing and Information Systems: 28th International Conference on Applications of Natural Language to Information
 Systems, NLDB 2023, Derby, UK, June 21–23, 2023, Proceedings June 2023 Pages 533–545.
+[Code and data](https://github.com/sfschouten/toxic-cross-domain)
+
 
 ### 2022 ###
 * " A WordNet View on Crosslingual Contextualized Language Models." In Proceedings of the 12th Global Wordnet Conference, pages 14–24, University of the Basque Country, Donostia - San
 Sebastian, Basque Country. Global Wordnet Association.
+[Code and data](https://github.com/cltl/probing-cross-linqual-model)
+
 
 * "SeqL at SemEval-2022 Task 11: An Ensemble of Transformer Based Models for Complex Named Entity Recognition Task." In Proceedings of the 16th International Workshop on
 Semantic Evaluation (SemEval-2022), pages 1583–1592, Seattle, United States. Association for Computational Linguistics.
