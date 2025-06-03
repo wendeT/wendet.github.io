@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ### 2025 ###
-* "The geometry of LRL in Multililingual Language Models" - (working draft, not yet submitted)
-* "Do small multilingual model transfer better than lanrge models " - (working draft, not yet submitted) 
+* "The Geometry of Under-Resourced Languages in Multilingual Language Models" - (working draft)
+* "Does Model Size Matter? A Study of Cross-Lingual Transfer in Multilingual Language Models " - (working draft, not yet submitted) 
 
 
 * "FiRC-NLP at SemEval-2025 Task 11: To Prompt or to Fine-Tune? Approaches for Multilingual Emotion Classification."
