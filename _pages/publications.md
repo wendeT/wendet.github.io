@@ -9,7 +9,7 @@ author_profile: true
 * "FiRC-NLP at SemEval-2025 Task 11: To Prompt or to Fine-Tune? Approaches for Multilingual Emotion Classification."
 Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025), Vienna, Austria, July 2025. (Paper accepted)
 
--- Code and data coming soon
+###### Code and data coming soon
 
 * "FiRC-NLP at SemEval-2025 Task 3: Exploring Prompting Approaches for Detecting Hallucinations in LLMs." Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025), Vienna, Austria, July 2025. (Paper accepted)
 
