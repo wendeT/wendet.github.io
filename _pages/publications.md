@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ### 2025 ###
+* "The geometry of LRL in Multililingual Language Models" - (working draft, not yet submitted)
+* "Do small multilingual model transfer better than lanrge models " - (working draft, not yet submitted) 
+
+
 * "FiRC-NLP at SemEval-2025 Task 11: To Prompt or to Fine-Tune? Approaches for Multilingual Emotion Classification."
 To apear in Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025), Vienna, Austria, July 2025. (Paper accepted)
 Camera ready [link](https://drive.google.com/file/d/1rAFU2SvTFL43pZTcN59nRRJGhz7XtPZP/view)
