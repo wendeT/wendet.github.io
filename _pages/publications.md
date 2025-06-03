@@ -10,8 +10,6 @@ author_profile: true
 To apear in Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025), Vienna, Austria, July 2025. (Paper accepted)
 Camera ready [link](https://drive.google.com/file/d/1rAFU2SvTFL43pZTcN59nRRJGhz7XtPZP/view)
 
-###### Code and data coming soon
-
 * "FiRC-NLP at SemEval-2025 Task 3: Exploring Prompting Approaches for Detecting Hallucinations in LLMs." Proceedings of the 19th To apear in International Workshop on Semantic Evaluation (SemEval-2025), Vienna, Austria, July 2025. (Paper accepted)
 Camera ready  [link](https://drive.google.com/file/d/1iKkSOakvasfsNPJY7hRG1EL-DmDsqucR/view)
 
@@ -25,6 +23,8 @@ Proceedings of the Fourth Workshop on Threat, Aggression & Cyberbullying @ LREC-
 * " Confidently Wrong: Exploring the Calibration and Expression of (Un) Certainty
 of Large Language Models in a Multilingual Setting.“ 
 Proceedings of the Workshop on Multimodal, Multilingual Natural Language Generation and Multilingual WebNLG Challenge (MM-NLG 2023), 1-9.
+
+[Code and data]([http://github.com](https://github.com/lkra/multilingual_confidence_calibration) "Github")
 
 * " Cross-Domain Toxic Spans Detection." Natural Language Processing and Information Systems: 28th International Conference on Applications of Natural Language to Information
 Systems, NLDB 2023, Derby, UK, June 21–23, 2023, Proceedings June 2023 Pages 533–545.
